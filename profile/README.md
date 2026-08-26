@@ -1,3 +1,3 @@
 # Odyssey Prime
 
-A group of energetic minds driven to innovate, build, and make an impact.
+We are a group of energetic minds who love turning ideas into reality. We learn, build, experiment, and create with the goal of solving meaningful problems and making a lasting impact.
