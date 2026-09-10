@@ -1,2 +1,2 @@
-# Odyssey Prime
-A group of energetic minds driven to innovate, build, and make an impact.
+**Convergence Society** : a community of curious and driven minds exploring ideas, building solutions, and advancing technology through collaboration and innovation.
+
