@@ -2,9 +2,9 @@
 
 > **An interdisciplinary student-led technical and research society exploring the convergence of Artificial Intelligence, Data Science, Computing, Mathematics, and emerging technologies.**
 
-Convergence Society brings together students driven by **research, engineering, and experimentation** to study challenging problems, develop rigorous technical understanding, and build meaningful systems.
+Convergence Society brings together students driven by **research, engineering, and experimentation** to study challenging problems, develop rigorous technical understanding, and build practical systems.
 
-We believe that impactful ideas often emerge at the **intersection of disciplines**. Our work combines mathematical foundations, computational methods, intelligent systems, and practical engineering to turn ideas into experiments, implementations, and open-source projects.
+Our work connects **mathematical foundations, computational methods, intelligent systems, and practical engineering** to turn ideas into experiments, implementations, and open-source projects.
 
 ## Research & Technical Areas
 
@@ -17,16 +17,16 @@ We believe that impactful ideas often emerge at the **intersection of discipline
 
 ## What We Do
 
-* **Research-oriented projects**: exploring problems through structured investigation and experimentation
-* **Technical discussions**: exchanging ideas, concepts, papers, and perspectives
-* **Open-source development**: building and sharing reproducible technical work
-* **Collaborative experimentation**: turning hypotheses and ideas into working implementations
-* **Workshops & knowledge sharing**: developing strong foundations and spreading technical knowledge
+* **Research-oriented projects** — investigating problems through structured study, experimentation, and implementation
+* **Technical discussions** — exploring concepts, research papers, algorithms, and emerging ideas
+* **Open-source development** — building and sharing reproducible software, research implementations, and computational work
+* **Collaborative experimentation** — translating hypotheses and ideas into working systems and experiments
+* **Workshops & knowledge sharing** — strengthening technical foundations and sharing knowledge across disciplines
 
 ## Our Repositories
 
-This organization serves as a **collective technical archive** of Convergence Society.
+This organization serves as a **collective repository of technical work developed by Convergence Society**.
 
-Here you will find projects, research implementations, experiments, algorithms, computational studies, learning resources, and other technical work developed collaboratively by our members.
+Here you will find research implementations, computational experiments, algorithms, software projects, learning resources, and other technical work developed collaboratively by our members.
 
 > **Explore. Experiment. Compute. Converge.**
