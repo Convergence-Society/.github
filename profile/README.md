@@ -17,11 +17,11 @@ Our work connects **mathematical foundations, computational methods, intelligent
 
 ## What We Do
 
-* **Research-oriented projects** — investigating problems through structured study, experimentation, and implementation
-* **Technical discussions** — exploring concepts, research papers, algorithms, and emerging ideas
-* **Open-source development** — building and sharing reproducible software, research implementations, and computational work
-* **Collaborative experimentation** — translating hypotheses and ideas into working systems and experiments
-* **Workshops & knowledge sharing** — strengthening technical foundations and sharing knowledge across disciplines
+* **Research-oriented projects:** investigating problems through structured study, experimentation, and implementation
+* **Technical discussions:** exploring concepts, research papers, algorithms, and emerging ideas
+* **Open-source development:** building and sharing reproducible software, research implementations, and computational work
+* **Collaborative experimentation:** translating hypotheses and ideas into working systems and experiments
+* **Workshops & knowledge sharing:** strengthening technical foundations and sharing knowledge across disciplines
 
 ## Our Repositories
 
