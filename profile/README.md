@@ -27,6 +27,6 @@ Our work connects **mathematical foundations, computational methods, intelligent
 
 This organization serves as a **collective repository of technical work developed by Convergence Society**.
 
-Here you will find research implementations, computational experiments, algorithms, software projects, learning resources, and other technical work developed collaboratively by our members.
+Here you will find research implementations, computational experiments, algorithms, software projects, learning resources, and other technical work developed by our members.
 
 > **Explore. Experiment. Compute. Converge.**
