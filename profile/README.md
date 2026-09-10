@@ -17,11 +17,11 @@ We believe that impactful ideas often emerge at the **intersection of discipline
 
 ## What We Do
 
-* **Research-oriented projects** — exploring problems through structured investigation and experimentation
-* **Technical discussions** — exchanging ideas, concepts, papers, and perspectives
-* **Open-source development** — building and sharing reproducible technical work
-* **Collaborative experimentation** — turning hypotheses and ideas into working implementations
-* **Workshops & knowledge sharing** — developing strong foundations and spreading technical knowledge
+* **Research-oriented projects**: exploring problems through structured investigation and experimentation
+* **Technical discussions**: exchanging ideas, concepts, papers, and perspectives
+* **Open-source development**: building and sharing reproducible technical work
+* **Collaborative experimentation**: turning hypotheses and ideas into working implementations
+* **Workshops & knowledge sharing**: developing strong foundations and spreading technical knowledge
 
 ## Our Repositories
 
